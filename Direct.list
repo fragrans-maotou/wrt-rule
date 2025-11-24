@@ -330,6 +330,11 @@ DOMAIN-SUFFIX,sandai.net
 DOMAIN-SUFFIX,thundercdn.com
 DOMAIN-SUFFIX,xunlei.com
 
+# Adobe.com 
+DOMAIN-SUFFIX,adobe.com
+DOMAIN-SUFFIX,adobe.io
+DOMAIN-SUFFIX,adobelogin.com
+DOMAIN-SUFFIX,photoshop.com
 
 # Public Direct CDN 公共直连
 #DOMAIN-SUFFIX,ajax.aspnetcdn.com
